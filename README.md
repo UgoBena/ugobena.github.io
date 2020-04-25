@@ -1,5 +1,3 @@
-# Interstellaris
+# BenjouhLe Snake
 
-My first Unity game !
-
-Testing update
+New Unity game ! Lot of work
